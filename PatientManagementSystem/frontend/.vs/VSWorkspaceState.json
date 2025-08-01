@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pms-app",
+    "\\pms-app\\src",
+    "\\pms-app\\src\\app",
+    "\\pms-app\\src\\app\\models",
+    "\\pms-app\\src\\app\\patients",
+    "\\pms-app\\src\\app\\patients\\delete",
+    "\\pms-app\\src\\app\\patients\\edit",
+    "\\pms-app\\src\\app\\patients\\view",
+    "\\pms-app\\src\\app\\services"
+  ],
+  "SelectedNode": "\\pms-app\\src\\app\\patients\\edit\\edit.component.html",
+  "PreviewInSolutionExplorer": false
+}

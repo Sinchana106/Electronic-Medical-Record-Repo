@@ -1,0 +1,122 @@
+<mat-card class="patient-form-card">
+  <mat-card-header>
+    <mat-card-title>Update Patient</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <form [formGroup]="editPatientForm" *ngIf="editPatientForm" (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <mat-form-field>
+          <label>Patient ID</label>
+          <input matInput type="text" placeholder="Enter Unique Patient's ID " formControlName="id" readonly />
+        </mat-form-field>
+      </div>
+      <div class="form-group">
+        <mat-form-field>
+          <label>Patient's Name</label>
+          <input matInput type="text" placeholder="Enter Patient's name"
+                 formControlName="name" />
+        </mat-form-field>
+        <mat-error *ngIf="editPatientForm.get('name')?.hasError('required')">
+          Patient's name is required.
+        </mat-error>
+
+      </div>
+      <div class="form-group">
+        <mat-form-field>
+          <label>Patient's Contact No</label>
+          <input matInput type="tel" placeholder="Enter Patient's Contact No"
+                 formControlName="contactNo" />
+        </mat-form-field>
+        <mat-error *ngIf="editPatientForm.get('contactNo')?.hasError('required')">
+          Patient's Contact No is required.
+        </mat-error>
+        <mat-error *ngIf="editPatientForm.get('contactNo')?.hasError('pattern') && editPatientForm.get('contactNo')?.touched">
+          Patient's contact number should be a valid 10-digit number.
+        </mat-error>
+      </div>
+      <!--Patient Type-->
+      <div class="form-group">
+        <mat-label>Patient Type:<br /></mat-label>
+        <mat-radio-group aria-label="Patient Type" name="type" formControlName="type" required>
+          <mat-radio-button value="New">New</mat-radio-button>
+          <mat-radio-button value="Existing">Existing</mat-radio-button>
+        </mat-radio-group>
+        <mat-error *ngIf="editPatientForm.controls['type']?.touched &&
+ editPatientForm.controls['type']?.hasError('required') ">
+          Patient's type is required.
+        </mat-error>
+      </div>
+      <div class="form-group">
+        <mat-form-field>
+          <label>Patient's Age</label>
+          <input matInput type="number" placeholder="Enter Patient's age"
+                 formControlName="age" />
+        </mat-form-field>
+        <mat-error *ngIf="editPatientForm.get('age')?.hasError('required')">
+          Patient's age is required.
+        </mat-error>
+        <mat-error *ngIf="editPatientForm.get('age')?.hasError('min')">
+          Patient's age should be valid.
+        </mat-error>
+        <mat-error *ngIf="editPatientForm.get('age')?.hasError('max')">
+          Patient's age should be valid.
+        </mat-error>
+      </div>
+     
+      <!--Insured By-->
+      
+      <div class="form-group">
+        <mat-form-field>
+          <mat-label>Insured By</mat-label>
+          <mat-select placeholder="Select the Recommended Insurer" name="insuredBy" formControlName="insuredBy" required>
+            <mat-option *ngFor="let name of insuranceNames" [value]="name">{{ name }}</mat-option>
+          </mat-select>
+          <mat-error *ngIf="editPatientForm.get('insuredBy')?.touched &&
+           editPatientForm.get('insuredBy')?.hasError('required') ">
+            Insured By is required.
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <!--<div class="form-group">
+    <mat-form-field>
+      <label>Patient's Visit Type</label>
+      <input matInput type="text" placeholder="Enter Patient's Visit Type'"
+             formControlName="visitType" />
+    </mat-form-field>
+    <mat-error *ngIf="editPatientForm.get('visitType')?.hasError('required')">
+      Patient's Visit Type is required.
+    </mat-error>
+  </div>-->
+      <!--Visit Type-->
+      <div class="form-group">
+        <mat-label>Visit Type:</mat-label><br />
+        <mat-checkbox formControlName="visitType"
+                      [checked]="editPatientData.visitType.includes('Consultation')"
+                      (change)="onVisitTypeChange('Consultation', $event.checked)">
+          Consultation
+        </mat-checkbox>
+
+        <mat-checkbox [checked]="editPatientData.visitType.includes('Investigations')"
+                      (change)="onVisitTypeChange('Investigations', $event.checked)">
+          Investigations
+        </mat-checkbox>
+        <mat-error *ngIf="editPatientForm.get('visitType')?.touched &&
+          editPatientForm.get('visitType')?.hasError('required')">
+          Patient's Visit Type is required.
+        </mat-error>  
+      </div>
+      <div class="form-group">
+        <mat-form-field>
+          <label>Description</label>
+          <textarea matInput placeholder="Enter Description"
+                    formControlName="description"></textarea>
+        </mat-form-field>
+
+      </div>
+      <button mat-raised-button color="primary" [disabled]="!editPatientForm.valid">
+        Submit
+      </button>
+    </form>
+  </mat-card-content>
+</mat-card>

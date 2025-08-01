@@ -1,0 +1,134 @@
+<mat-card class="patient-form-card">
+  <mat-card-header>
+    <mat-card-title><strong>Intake Patient</strong></mat-card-title>
+  </mat-card-header>
+  <form #patientForm="ngForm" (ngSubmit)="handleSubmit()">
+    <!-- Patient ID -->
+    <!--<div class="form-field">
+      <mat-form-field>
+        <mat-label>Patient ID</mat-label>
+        <input matInput type="text" name="id" [(ngModel)]="newPatient.id" required
+               placeholder="Enter Patient ID"
+              />
+
+      </mat-form-field>
+    </div>-->
+      <!-- Patient Name -->
+      <div class="form-field">
+        <mat-form-field>
+          <mat-label>Patient's Name'</mat-label>
+          <input matInput type="text" name="name" [(ngModel)]="newPatient.name" required minlength="2">
+          <mat-error *ngIf="patientForm.controls['name']?.touched &&
+                   patientForm.controls['name']?.hasError('required') ">
+            Patient's name is required.
+          </mat-error>
+          <mat-error *ngIf="patientForm.controls['name']?.touched &&
+           patientForm.controls['name']?.hasError('minlength') ">
+            Patient's name should be atleast 2 character or more.
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <!-- Patient's Contact Number'-->
+      <div class="form-group">
+        <mat-form-field>
+          <mat-label>Patient's Contact Number'</mat-label>
+          <input matInput type="tel" name="contactNo" [(ngModel)]="newPatient.contactNo" required pattern="[0-9]{10}"
+                 placeholder="Enter Patient's Contact Number ">
+          <mat-error *ngIf="patientForm.controls['contactNo']?.touched &&
+               patientForm.controls['contactNo']?.hasError('required') ">
+            Patient's contact number is required.
+          </mat-error>
+          <mat-error *ngIf="patientForm.controls['contactNo']?.touched &&
+           patientForm.controls['contactNo']?.hasError('pattern') ">
+            Patient's contact number should be a valid 10-digit number.
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <!--Patient Type-->
+      <div class="form-group">
+        <mat-label>Patient Type:<br /></mat-label>
+        <mat-radio-group aria-label="Patient Type" name="type" [(ngModel)]="newPatient.type" required>
+          <mat-radio-button value="New">New</mat-radio-button>
+          <mat-radio-button value="Existing">Existing</mat-radio-button>
+        </mat-radio-group>
+        <mat-error *ngIf="patientForm.controls['type']?.touched &&
+       patientForm.controls['type']?.hasError('required') ">
+          Patient's type is required.
+        </mat-error>
+      </div>
+      <!-- Patient's Age'-->
+      <div class="form-group">
+        <mat-form-field>
+          <mat-label>Patient's Age'</mat-label>
+          <input matInput type="number" name="age" [(ngModel)]="newPatient.age" required min="1" max="120">
+          <mat-error *ngIf="patientForm.controls['age']?.touched &&
+               patientForm.controls['age']?.hasError('required') ">
+            Patient's age is required.
+          </mat-error>
+          <mat-error *ngIf="patientForm.controls['age']?.touched &&
+            patientForm.controls['age']?.hasError('min') ">
+            Patient's age should be valid.
+          </mat-error>
+          <mat-error *ngIf="patientForm.controls['age']?.touched &&
+            patientForm.controls['age']?.hasError('max') ">
+            Patient's age should be valid.
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <!-- Date -->
+      <!--<div class="form-group">
+        <mat-form-field>
+          <mat-label>Choose a date</mat-label>
+          <input matInput [matDatepicker]="picker" name="date" [(ngModel)]="newPatient.date">
+          <mat-hint>MM/DD/YYYY</mat-hint>
+          <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+          <mat-error *ngIf="patientForm.controls['date']?.touched &&
+          patientForm.controls['age']?.hasError('invalid') ">
+            Date should be valid.
+          </mat-error>
+        </mat-form-field>
+      </div>-->
+      <!--Insured By-->
+      <div class="form-group">
+        <mat-form-field>
+          <mat-label>Insured By</mat-label>
+          <mat-select placeholder="Select the Recommended Insurer" name="insuredBy" [(ngModel)]="newPatient.insuredBy" required>
+            <mat-option *ngFor="let name of insuranceNames" [value]="name">{{ name }}</mat-option>
+          </mat-select>
+          <mat-error *ngIf="patientForm.controls['insuredBy']?.touched &&
+           patientForm.controls['insuredBy']?.hasError('required') ">
+            Insured By is required.
+            </mat-error>
+        </mat-form-field>
+      </div>
+      <!--Visit Type-->
+      <div class="form-group">
+        <mat-label>Visit Type:</mat-label><br />
+        <mat-checkbox [checked]="newPatient.visitType.includes('Consultation')"
+                      (change)="onVisitTypeChange('Consultation', $event.checked)">
+          Consultation
+        </mat-checkbox>
+
+        <mat-checkbox [checked]="newPatient.visitType.includes('Investigations')"
+                      (change)="onVisitTypeChange('Investigations', $event.checked)">
+          Investigations
+        </mat-checkbox>
+        <mat-error *ngIf="patientForm.controls['visitType']?.touched &&
+        patientForm.controls['visitType']?.hasError('required')">
+          Patient's Visit Type is required.
+        </mat-error>
+      </div>
+      <!--Description-->
+      <div class="form-group">
+        <mat-form-field>
+          <mat-label>Description</mat-label>
+          <textarea matInput placeholder="Enter Description" name="description" [(ngModel)]="newPatient.description"></textarea>
+        </mat-form-field>
+      </div>
+      <button mat-raised-button color="primary" [disabled]="!patientForm.valid">
+        Submit
+      </button>
+  </form>
+</mat-card>

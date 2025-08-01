@@ -1,0 +1,12 @@
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\bin\Debug\net8.0\PatientManagementSystem.ApplicationCore.deps.json
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\bin\Debug\net8.0\PatientManagementSystem.ApplicationCore.dll
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\bin\Debug\net8.0\PatientManagementSystem.ApplicationCore.pdb
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.AssemblyInfo.cs
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.dll
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\refint\PatientManagementSystem.ApplicationCore.dll
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\PatientManagementSystem.ApplicationCore.pdb
+C:\Users\2164341\source\repos\EMR\PatientManagementSystem\backend\PatientManagementSystem.ApplicationCore\obj\Debug\net8.0\ref\PatientManagementSystem.ApplicationCore.dll

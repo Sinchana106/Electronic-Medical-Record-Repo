@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Patient Form</title>
+</head>
+<body>
+
+  <div class="container">
+    <div class="sidebar">
+      <h2>WELCOME</h2>
+      <a href="#">Home</a>
+      <a href="#">Intake</a>
+      <a href="#">History</a>
+      <a href="#">SOAP Notes</a>
+      <a href="#">Checkout</a>
+      <a href="#">Reports</a>
+      <a href="#">Screening Tools</a>
+      <a href="#">Logout</a>
+    </div>
+
+    <div class="main-content">
+      <form action="#" method="post" enctype="multipart/form-data">
+        <label for="patient-type">Patient Type:</label>
+        <input type="radio" id="new-patient" name="patient-type" value="new"> New
+        <input type="radio" id="existing-patient" name="patient-type" value="existing"> Existing
+
+        <label for="name">Patient Name:</label>
+        <input type="text" id="name" name="name">
+
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob">
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+          <option value="">Select</option>
+          <option value="female">Female</option>
+          <option value="male">Male</option>
+          <option value="other">Other</option>
+        </select>
+
+        <label for="notes">Notes:</label>
+        <textarea id="notes" name="notes" rows="4"></textarea>
+
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </div>
+
+</body>
+</html>
+

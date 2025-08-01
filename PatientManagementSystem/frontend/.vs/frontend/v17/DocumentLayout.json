@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\add\\add.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\add\\add.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\patients.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\patients.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\services\\patient.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\services\\patient.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\delete\\delete.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\delete\\delete.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\view\\view.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\view\\view.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\models\\patient.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\models\\patient.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\edit\\edit.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\add\\add.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\services\\patient.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\services\\patient.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\view\\view.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\side-bar\\side-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\side-bar\\side-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\side-bar\\side-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\patients\\patients.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pms-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add.component.html",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.html",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\add\\add.component.html",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.html",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\add\\add.component.html",
+              "ViewState": "AgIAADMAAABAMzMzM3MvwHYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T09:13:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "add.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\add\\add.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\add\\add.component.ts",
+              "ViewState": "AgIAAHEAAACABgAAAIAYwHgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-10T06:12:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\edit\\edit.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\edit\\edit.component.ts",
+              "ViewState": "AgIAAEQAAAAAoGZmZmbGv00AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-10T04:51:41.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit.component.html",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.html",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\edit\\edit.component.html",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.html",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\edit\\edit.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T13:44:04.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "patients.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\patients.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\patients.component.ts",
+              "ViewState": "AgIAAFcAAACAmpmZmZkhwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T09:58:13.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "patients.component.html",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.html",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\patients.component.html",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.html",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\patients.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T09:57:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "patient.service.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\services\\patient.service.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\services\\patient.service.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\services\\patient.service.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\services\\patient.service.ts",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-10T11:46:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "delete.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\delete\\delete.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\delete\\delete.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\delete\\delete.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\delete\\delete.component.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T06:26:44.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.html",
+              "RelativeToolTip": "pms-app\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAMAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-07T12:09:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "view.component.html",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.html",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\view\\view.component.html",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.html",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\view\\view.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T05:08:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "view.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\view\\view.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\view\\view.component.ts",
+              "ViewState": "AgIAAAgAAABQZmZmZmYkwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T05:08:21.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "patient.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\models\\patient.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\models\\patient.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\models\\patient.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\models\\patient.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T10:08:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewFile",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\NewFile",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\NewFile",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\NewFile",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\NewFile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-10T07:38:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "edit.component.css",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.css",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\edit\\edit.component.css",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\edit\\edit.component.css",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\edit\\edit.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-10T05:53:11.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "add.component.css",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.css",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\add\\add.component.css",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\add\\add.component.css",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\add\\add.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T10:35:38.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T09:46:34.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "patient.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\services\\patient.service.spec.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\services\\patient.service.spec.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\services\\patient.service.spec.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\services\\patient.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-09T13:02:09.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "side-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.html",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\side-bar\\side-bar.component.html",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.html",
+              "RelativeToolTip": "pms-app\\src\\app\\side-bar\\side-bar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T12:32:27.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "view.component.css",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.css",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\view\\view.component.css",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\view\\view.component.css",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\view\\view.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T05:55:06.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-07T12:11:50.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "side-bar.component.css",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.css",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\side-bar\\side-bar.component.css",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.css",
+              "RelativeToolTip": "pms-app\\src\\app\\side-bar\\side-bar.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T12:45:23.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "side-bar.component.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\side-bar\\side-bar.component.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\side-bar\\side-bar.component.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\side-bar\\side-bar.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T12:32:33.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "patients.component.css",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.css",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\patients\\patients.component.css",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\patients\\patients.component.css",
+              "RelativeToolTip": "pms-app\\src\\app\\patients\\patients.component.css",
+              "ViewState": "AgIAAAwAAACAmZmZmVkqwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T10:15:21.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.config.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T12:19:22.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.routes.server.ts",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.routes.server.ts",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\app.routes.server.ts",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.routes.server.ts",
+              "RelativeToolTip": "pms-app\\src\\app\\app.routes.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-08T09:46:32.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "pms-app\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\src\\app\\app.component.css",
+              "RelativeToolTip": "pms-app\\src\\app\\app.component.css",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-07T12:10:10.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\package.json",
+              "RelativeDocumentMoniker": "pms-app\\package.json",
+              "ToolTip": "C:\\Users\\2164341\\source\\repos\\EMR\\PatientManagementSystem\\frontend\\pms-app\\package.json",
+              "RelativeToolTip": "pms-app\\package.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T12:08:34.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

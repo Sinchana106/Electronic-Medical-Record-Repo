@@ -1,0 +1,13 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.patient-form-card {
+  margin: 20px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 50%;
+}

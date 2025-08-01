@@ -1,0 +1,33 @@
+.mat-card {
+  margin: 20px;
+}
+.no-of-card {
+  margin: 5px;
+  padding: 10px;
+  width: 25%;
+}
+
+.bg-primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.bg-success {
+  background-color: #28a745;
+  color: white;
+}
+
+.bg-info {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.bg-warning {
+  background-color: #ffc107;
+  color: white;
+}
+.example-flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\dtos",
+    "\\src\\app\\insurer",
+    "\\src\\app\\insurer\\add",
+    "\\src\\app\\login",
+    "\\src\\app\\register",
+    "\\src\\app\\services",
+    "\\src\\app\\side-bar"
+  ],
+  "SelectedNode": "\\src\\app\\app.routes.ts",
+  "PreviewInSolutionExplorer": false
+}
